@@ -1,4 +1,6 @@
-Hello, My Name is Aiden Butler and this is my brand "AIDRIVE"
+# Hello, My Name is Aiden Butler and this is my brand "AIDRIVE"
+
+<img width="317" height="394" alt="Screenshot 2025-07-10 121653" src="https://github.com/user-attachments/assets/83ef115e-db5b-49c3-afc5-61ce3a8f0cc0" />
 This brand was created from a love of cars, speed, and design. It’s more than just a logo — it’s a mix of personality, performance, and style.
 AIDRIVE is all about pushing forward. 
 Inspired by high-end cars like BMW, this brand brings together sharp looks and smooth motion.
